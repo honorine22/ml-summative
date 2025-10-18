@@ -278,7 +278,7 @@ The successful implementation of both traditional machine learning and deep lear
 
 The complete implementation, including all code, datasets, and supporting materials, is available in the following GitHub repository:
 
-**GitHub Repository:** [INSERT_GITHUB_REPOSITORY_URL_HERE]
+**GitHub Repository:** https://github.com/honorine22/ml-summative.git
 
 The repository contains:
 - Complete Jupyter notebook with all experiments and analysis
@@ -291,7 +291,7 @@ The repository contains:
 
 A comprehensive demonstration video presenting the project methodology, results, and findings is available at:
 
-**Demo Video:** [INSERT_VIDEO_URL_HERE]
+**Demo Video:** https://youtu.be/d1425KkIXDc
 
 The video presentation (5-10 minutes) covers:
 - Problem statement and dataset overview
