@@ -291,7 +291,7 @@ The repository contains:
 
 A comprehensive demonstration video presenting the project methodology, results, and findings is available at:
 
-**Demo Video:** https://youtu.be/d1425KkIXDc
+**Demo Video:** https://youtu.be/L2EtXM2Vfz0
 
 The video presentation (5-10 minutes) covers:
 - Problem statement and dataset overview
