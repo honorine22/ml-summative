@@ -301,6 +301,9 @@ The video presentation (5-10 minutes) covers:
 - Practical implications and future work
 - Technical insights and lessons learned
 
+
+**Notebook Link:** https://colab.research.google.com/drive/1vmQShun2ai3ZXKyZc39RW0BLCh067Quk?usp=sharing
+
 ### 8.3 Reproducibility
 
 All code and experiments are fully reproducible with the following specifications:
